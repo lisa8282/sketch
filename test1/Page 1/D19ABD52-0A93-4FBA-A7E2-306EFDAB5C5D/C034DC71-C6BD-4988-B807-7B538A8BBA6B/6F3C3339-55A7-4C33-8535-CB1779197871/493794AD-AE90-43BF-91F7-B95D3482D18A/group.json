@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "493794AD-AE90-43BF-91F7-B95D3482D18A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "3F2E3BFE-383D-4BCA-A963-E474D79892E3",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "286DEF5D-ADF9-45C4-8B35-5331501A78E4",
+    "height": 12,
+    "width": 11,
+    "x": 7,
+    "y": 47.81963984531922
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "2DF693B8-D2CB-4F5C-B95F-008A58824ACE"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "FD1521A3-8FA8-40AD-9F3E-F2C262BF64B6"
+    }
+  ],
+  "name": "money copy 2",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "93D4E0A2-C59B-4F75-999F-3E9990784372",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

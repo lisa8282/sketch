@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "D70A6E0B-133C-408D-AD74-E4A235E15418",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "14C21747-741B-4C90-8EB0-3C7B31C6EF0A",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "AE1CABC9-64AD-46EE-A75F-B94645176C64",
+    "height": 60,
+    "width": 60,
+    "x": 170,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "style2/box/fastLink/d Copy 11",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "9BBCFEB8-E110-40B1-95B5-C9FEDD5F00FC",
+      "overrideName": "7C070381-912F-45EE-BFE2-618FA1CC3834_symbolID",
+      "value": "5BFF897F-3E93-4873-8E10-49114B82766E"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "C27F6263-BCCE-4EA8-8774-B6EA6FCEF9C8",
+      "overrideName": "1002ABD1-67EF-4D61-81DA-C224F1298D8A_stringValue",
+      "value": "往来记录"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "2349544E-281F-4C2B-98A9-A090CA2988CC",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "5AB6B3B8-2A4E-4B5A-BB8D-8E915B24C604",
+  "verticalSpacing": 0
+}

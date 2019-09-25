@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "DA09520D-B47C-42E1-A0CC-2A3A76512C06",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F92A2568-63EB-4812-BF23-F4C1C7BEB0E1",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "C518A793-2E33-42CD-8B64-C65DE6534032",
+    "height": 60,
+    "width": 60,
+    "x": 260,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "style2/box/fastLink/d Copy 2",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "7E4F3481-7CC7-43B9-8D74-6BC64BF48CD4",
+      "overrideName": "7C070381-912F-45EE-BFE2-618FA1CC3834_symbolID",
+      "value": "48237F04-6352-4B76-9F67-C23296E80799"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "23240535-4A0F-4F61-89D1-A306E20B6DDF",
+      "overrideName": "1002ABD1-67EF-4D61-81DA-C224F1298D8A_stringValue",
+      "value": "優惠中心"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "7275F7D0-093E-4767-A1BF-8A1F6B7FAE55",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "5AB6B3B8-2A4E-4B5A-BB8D-8E915B24C604",
+  "verticalSpacing": 0
+}

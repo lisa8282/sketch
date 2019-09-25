@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "227625E8-9833-471C-80AE-189FD7E5D082",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "DFD29435-AA54-4FC8-9CD0-778F2995227F",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "08CC2DE8-555A-4FDE-BB7C-C5340D56BAD1",
+    "height": 63,
+    "width": 60,
+    "x": 259,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "style2/box/fastLink/d Copy 9",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "7E4F3481-7CC7-43B9-8D74-6BC64BF48CD4",
+      "overrideName": "7C070381-912F-45EE-BFE2-618FA1CC3834_symbolID",
+      "value": "CE19FCA6-2729-4B33-8FCA-01B3A52CEE75"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "23240535-4A0F-4F61-89D1-A306E20B6DDF",
+      "overrideName": "1002ABD1-67EF-4D61-81DA-C224F1298D8A_stringValue",
+      "value": "个人游戏限额"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "714AE977-525F-4291-A4F7-65931A9AB4F7",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "5AB6B3B8-2A4E-4B5A-BB8D-8E915B24C604",
+  "verticalSpacing": 0
+}

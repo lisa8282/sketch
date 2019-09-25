@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "09B8E2DF-BDFE-4DDB-A1DF-07B1E5EFBC9E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "0E21E45E-92D3-4BB8-8FCD-440D32914F4B",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "AAB86F2A-0D56-4859-A8A7-0E7E206455B3",
+    "height": 14,
+    "width": 43,
+    "x": 282,
+    "y": 26
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "14DE7038-F6F7-41FD-A0A3-BA3CA9459792"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "text",
+      "id": "B36023E3-4FA5-400B-8458-C94FE7EB500D"
+    }
+  ],
+  "name": "tabbar/icon/d copy 4",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "4C5A835D-830D-4151-B126-750D3362DFD8",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

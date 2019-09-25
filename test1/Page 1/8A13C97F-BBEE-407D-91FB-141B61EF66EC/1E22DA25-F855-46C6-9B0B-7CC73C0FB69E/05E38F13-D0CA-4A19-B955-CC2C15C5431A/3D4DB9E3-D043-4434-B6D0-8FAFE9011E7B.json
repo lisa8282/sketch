@@ -1,0 +1,68 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "3D4DB9E3-D043-4434-B6D0-8FAFE9011E7B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "5355B35A-0696-4108-A6A5-E353035B9111",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "69FBE7E9-E7F2-4F67-A2FD-9EC2008C26B8",
+    "height": 40,
+    "width": 24,
+    "x": 73,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "tabbar/icon/d copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "56436409-84B5-4A9A-9979-65AF427F89CD",
+      "overrideName": "8D3CD6EB-A0BB-4F25-8666-B4EA9EDA9422_stringValue",
+      "value": "在线客服"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "F1CF52F5-707D-4248-BF5B-F0DF8A7E5F7F",
+      "overrideName": "37C06ECC-75AC-48E9-BDE3-0106D0CABE69_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/5dbd80f80ca2151b43728f1c6d3469083874f7da.png",
+        "_ref_class": "MSImageData"
+      }
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "48132603-6410-4332-BD29-16A2F176F51B",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "2CAFC592-C609-4AAD-AC81-2237E962F64B",
+  "verticalSpacing": 0
+}

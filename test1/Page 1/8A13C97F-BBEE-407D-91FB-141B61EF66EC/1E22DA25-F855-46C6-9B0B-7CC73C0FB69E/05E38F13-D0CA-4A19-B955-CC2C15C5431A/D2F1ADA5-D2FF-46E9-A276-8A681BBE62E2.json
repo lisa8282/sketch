@@ -1,0 +1,68 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "D2F1ADA5-D2FF-46E9-A276-8A681BBE62E2",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "DCF583BE-A222-4E42-B2E1-44970BA36343",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "255D6E41-1C7A-48DC-A724-BD327B2F249F",
+    "height": 40,
+    "width": 24,
+    "x": 218,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "tabbar/icon/d copy 6",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "C3FBFCEC-2F05-47F7-B974-AD07BC608F77",
+      "overrideName": "8D3CD6EB-A0BB-4F25-8666-B4EA9EDA9422_stringValue",
+      "value": "优惠活动"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "7C5CBF93-BA33-4EF5-9A87-F7913D87CE79",
+      "overrideName": "37C06ECC-75AC-48E9-BDE3-0106D0CABE69_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/fd1bbf5a6b89e7def9f4a4f3e60c97fa06062b19.png",
+        "_ref_class": "MSImageData"
+      }
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "A15ABB50-9BD5-4217-B619-D76D3E53F06A",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "2CAFC592-C609-4AAD-AC81-2237E962F64B",
+  "verticalSpacing": 0
+}

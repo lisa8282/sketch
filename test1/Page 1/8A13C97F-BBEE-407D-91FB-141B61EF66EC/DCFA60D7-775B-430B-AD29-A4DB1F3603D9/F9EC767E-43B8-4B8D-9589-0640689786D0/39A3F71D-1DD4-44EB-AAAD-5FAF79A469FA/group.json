@@ -1,0 +1,113 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "39A3F71D-1DD4-44EB-AAAD-5FAF79A469FA",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F374A24F-5946-4A04-A9EA-E83EE262787F",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "8AF14C82-3CF3-4BF1-A829-87E31FECB8E8",
+    "height": 55,
+    "width": 54,
+    "x": 4,
+    "y": 4.819639845319216
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "D0133C3B-857E-44AD-A17E-0B967D2877A4"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "29FC75DA-D274-48FB-BDE6-2F730A578D3D"
+    },
+    {
+      "class": "shapePath",
+      "id": "552C92EA-8FE3-45C8-BC5B-F8FB40C2629D"
+    },
+    {
+      "class": "shapePath",
+      "id": "E3D00084-3EFC-461F-A9D2-763D5176C297"
+    },
+    {
+      "class": "shapePath",
+      "id": "43567076-E2EE-40ED-9C26-8849DEF83EEF"
+    },
+    {
+      "class": "shapePath",
+      "id": "EA3B2914-C5BE-4911-ADBE-FF10E2ECF784"
+    },
+    {
+      "class": "shapePath",
+      "id": "FD8B180A-AE0F-4DF1-A287-46F3A9AFE2A0"
+    },
+    {
+      "class": "shapePath",
+      "id": "90CCEF41-B89C-436F-B84D-A4C93ACF57A8"
+    },
+    {
+      "class": "shapePath",
+      "id": "BF5C981F-A13C-486A-9A91-FFD54027BB7F"
+    },
+    {
+      "class": "group",
+      "id": "B7232BEB-9184-4D82-9C57-B96048DC5D6C"
+    },
+    {
+      "class": "group",
+      "id": "D3FB21E1-E9CA-4A93-8443-942D34FB93A7"
+    },
+    {
+      "class": "shapePath",
+      "id": "FDDC6956-CF64-4CE2-A39F-0D951906BE74"
+    },
+    {
+      "class": "shapePath",
+      "id": "AD967A3F-42C0-4382-B829-CD2D8B8EB6F4"
+    },
+    {
+      "class": "shapePath",
+      "id": "D0B4C9CA-EF11-40F6-B713-B58E7D0CA1ED"
+    },
+    {
+      "class": "shapePath",
+      "id": "6281CF20-1FBA-404C-B163-6EA528CD89DF"
+    },
+    {
+      "class": "shapePath",
+      "id": "25206908-085C-46EB-9530-E83E40669F0B"
+    }
+  ],
+  "name": "gift",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "0D16F3AC-5E6E-4F7A-A0FC-3C2FAAF4AB8E",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

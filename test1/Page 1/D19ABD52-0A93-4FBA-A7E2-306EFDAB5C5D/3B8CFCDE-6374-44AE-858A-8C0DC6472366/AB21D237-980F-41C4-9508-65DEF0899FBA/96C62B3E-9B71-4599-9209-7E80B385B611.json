@@ -1,0 +1,68 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "96C62B3E-9B71-4599-9209-7E80B385B611",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "190857DF-3C18-4C6E-991E-FA1DB5BFEE88",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "9B533F6C-B231-4A25-912C-C67EEC9C5B97",
+    "height": 40,
+    "width": 24,
+    "x": 145,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "tabbar/icon/d copy 5",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "EC501D9A-7887-447A-A1F7-6C65F62BF619",
+      "overrideName": "8D3CD6EB-A0BB-4F25-8666-B4EA9EDA9422_stringValue",
+      "value": "我的优惠"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "28F2AD3B-B4E5-41E8-9C4B-CBAC97AC52CB",
+      "overrideName": "37C06ECC-75AC-48E9-BDE3-0106D0CABE69_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/ae09dfadd3f7c0649f1556b27ca86f73cf64133b.png",
+        "_ref_class": "MSImageData"
+      }
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "2BAB5C97-7B97-4F19-8671-09C4B5A9532C",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "2CAFC592-C609-4AAD-AC81-2237E962F64B",
+  "verticalSpacing": 0
+}

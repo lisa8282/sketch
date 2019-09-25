@@ -1,0 +1,68 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "8C5E33C1-609F-482A-B435-EFDF40915DD0",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "1D912C49-F642-43C7-B215-4C467DB87571",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "D1A0A230-1BE7-46DF-97D6-0D3789AE4F84",
+    "height": 40,
+    "width": 24,
+    "x": 0,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "tabbar/icon/d copy 2",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "428CB0DD-9A81-47FE-AC49-45117CC5122F",
+      "overrideName": "8D3CD6EB-A0BB-4F25-8666-B4EA9EDA9422_stringValue",
+      "value": "首頁"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "F4C729CE-E399-4333-8E33-1D5B086E8C04",
+      "overrideName": "37C06ECC-75AC-48E9-BDE3-0106D0CABE69_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/5d1f083f12aa0022299e388a7271da3492ca4e07.png",
+        "_ref_class": "MSImageData"
+      }
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "42184626-512A-49A4-9B71-3C62E06D868E",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "2CAFC592-C609-4AAD-AC81-2237E962F64B",
+  "verticalSpacing": 0
+}
