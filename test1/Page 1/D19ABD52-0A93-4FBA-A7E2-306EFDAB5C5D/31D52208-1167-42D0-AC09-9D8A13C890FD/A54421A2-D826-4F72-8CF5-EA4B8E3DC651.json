@@ -20,7 +20,7 @@
               "size": 14
             }
           },
-          "kerning": 0.08750000000000001,
+          "kerning": 0.0875,
           "paragraphStyle": {
             "_class": "paragraphStyle",
             "alignment": 0
@@ -118,7 +118,7 @@
             "size": 14
           }
         },
-        "kerning": 0.08750000000000001,
+        "kerning": 0.0875,
         "paragraphStyle": {
           "_class": "paragraphStyle",
           "alignment": 0

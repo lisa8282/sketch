@@ -1,5 +1,6 @@
 {
   "_class": "page",
+  "booleanOperation": 0,
   "clippingMaskMode": 0,
   "do_objectID": "2AC124DF-BB29-4648-96A9-17F063D37F65",
   "exportOptions": {
@@ -19,6 +20,9 @@
     "x": 0,
     "y": 0
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
   "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
@@ -28,6 +32,7 @@
     ]
   },
   "includeInCloudUpload": true,
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -51,9 +56,10 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
-    "startDecorationType": 0
+    "startMarkerType": 0,
+    "windingRule": 0
   },
   "verticalRulerData": {
     "_class": "rulerData",
